@@ -11,4 +11,4 @@
         <li>Дүү(Б.Мөнх&mdashОд)</li>
         <li>Би(Б.Мөнхтулга)</li>
     </ul>   
-
+ <p><a href="https://munkhtulga0826.github.io/"><em>Буцах</em></a></p>
